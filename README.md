@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/chandima-bandara)
-- 📧 **Email**: chandima.bandara815@gmail.com
+- 📧 **Email**: chandimacbbandara@gmail.com
 - 🐦 **Twitter**: [@ChandimaBandara](https://twitter.com/chandimabandara)
 - 🌐 **Portfolio**: [chandimabandara.dev](https://chandimabandara.dev)
 
