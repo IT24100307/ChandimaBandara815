@@ -46,25 +46,23 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandimaBandara815&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IT24100307&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandimaBandara815&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24100307&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChandimaBandara815&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IT24100307&theme=radical&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/chandima-bandara)
+- 💼 **LinkedIn**: [Connect with me](www.linkedin.com/in/chandima-bandara-b79aba301)
 - 📧 **Email**: chandimacbbandara@gmail.com
-- 🐦 **Twitter**: [@ChandimaBandara](https://twitter.com/chandimabandara)
-- 🌐 **Portfolio**: [chandimabandara.dev](https://chandimabandara.dev)
 
 ## ⚡ Fun Facts
 
@@ -76,5 +74,5 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/ChandimaBandara815">ChandimaBandara815</a></i>
+  <i>⭐️ From <a href="https://github.com/IT24100307">Chandima Bandara</a></i>
 </div>
